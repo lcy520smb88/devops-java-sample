@@ -1,4 +1,4 @@
-FROM java:openjdk-8-jre-alpine
+FROM lzxdomain.com/devops/appdynamics/java-agent:v1
 
 WORKDIR /home
 
